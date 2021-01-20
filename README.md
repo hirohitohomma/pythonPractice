@@ -1,2 +1,3 @@
 # pythonPractice
-Python practice
+Personal practice of python
+I'm a beginner.
